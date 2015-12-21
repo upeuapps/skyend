@@ -1,0 +1,6 @@
+*.pyc
+node_modules
+*node_modules
+skyend_web\node_modules
+skyend_accounts\node_modules
+
